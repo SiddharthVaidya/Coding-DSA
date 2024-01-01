@@ -12,6 +12,8 @@
 // Input: (g = [1, 2]), (s = [1, 2, 3]);
 // Output: 2;
 
+// TC: O(nlogn + n) { n -> max of g.length, s.length} becoz we are sorting the array. If arrays is sorted then O(n)
+
 /**
  * @param {number[]} g
  * @param {number[]} s
