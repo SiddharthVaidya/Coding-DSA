@@ -13,5 +13,6 @@ Links to all the problems are below:
 2610 : https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
 2125 : https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 2870 : https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
+300 : https://leetcode.com/problems/longest-increasing-subsequence/
 
 😢 HARD ->
