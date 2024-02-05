@@ -10,6 +10,7 @@ Welcome to the DSA Track repository! This is a space where I keep track of my Da
 3. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Problem ID: 70
 4. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) - Problem ID: 746
 5. [Remove Element](https://leetcode.com/problems/remove-element/) - Problem ID: 27
+6. [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) - Problem ID: 1752
 
 ### 😎 MEDIUM:
 1. [Convert an Array into a 2D Array with Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) - Problem ID: 2610
